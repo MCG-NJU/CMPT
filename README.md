@@ -26,7 +26,9 @@ Please cite the following paper if you feel this repository useful.
   title={Cross-Modal Pyramid Translation for RGB-D Scene Recognition},
   author={Du, Dapeng and Wang, Limin and Li, Zhaoyang and Wu, Gangshan},
   journal={International Journal of Computer Vision},
-  pages={1--19},
+  volume    = {128},
+  number    = {1},
+  pages     = {2309--2327},
   year={2021},
   publisher={Springer}
 }
